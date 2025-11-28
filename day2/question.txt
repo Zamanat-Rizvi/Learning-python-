@@ -1,0 +1,12 @@
+q1)make a function oriented tic tac toe game .
+with proper documentatin
+no need to make a bot 
+just make it human vs human
+it should be cli based with proper markings
+
+
+q2)make a cli based calulator with following features:
+-arithmetics
+-exponentials
+-recursion
+-0sum of nth natural numberzs
