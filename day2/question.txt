@@ -9,4 +9,4 @@ q2)make a cli based calulator with following features:
 -arithmetics
 -exponentials
 -recursion
--0sum of nth natural numberzs
+-0sum of nth natural numbers
